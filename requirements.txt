@@ -14,7 +14,7 @@ resampy
 
 #****  Inference  ****
 
-onnxruntime-gpu
+onnxruntime
 
 # for MDX23C models
 ml_collections
